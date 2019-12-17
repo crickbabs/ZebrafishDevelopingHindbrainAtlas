@@ -11,6 +11,7 @@ The Francis Crick Institute: <sup>1</sup>Neural Development Laboratory, <sup>2</
 <p align="center">
   <img src="https://github.com/crickbabs/ZebrafishDevelopingHindbrainAtlas/blob/master/Fig1.png">
 </p>
+
 ---
 
 
