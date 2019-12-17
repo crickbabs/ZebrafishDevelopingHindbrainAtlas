@@ -7,11 +7,12 @@ Development (In review)<br/>
 Monica Tambalo<sup>1</sup>, Richard Mitter<sup>2</sup>, David Wilkinson<sup>1</sup>.<br/>
 The Francis Crick Institute: <sup>1</sup>Neural Development Laboratory, <sup>2</sup>Bioinformatics & Biostatistics STP.*
 
+
+
 <p align="center">
-  <img width="460" height="300" src="https://github.com/crickbabs/ZebrafishDevelopingHindbrainAtlas/blob/master/Fig1.png">
+  <img src="https://github.com/crickbabs/ZebrafishDevelopingHindbrainAtlas/blob/master/Fig1.png">
 </p>
 
-![alt text](https://github.com/crickbabs/ZebrafishDevelopingHindbrainAtlas/blob/master/Fig1.png "Figure 1")
 
 ## Abstract
 
