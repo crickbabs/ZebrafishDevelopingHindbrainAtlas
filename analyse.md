@@ -1,20 +1,3 @@
----
-title: "A single cell transcriptome atlas of the developing zebrafish hindbrain."
-author:
-- name: "Monica Tambalo<sup>1</sup>, Richard Mitter<sup>2</sup>, David Wilkinson<sup>1</sup>."
-  affiliation: "The Francis Crick Institute: <sup>1</sup>Neural Development Laboratory, <sup>2</sup>Bioinformatics & Biostatistics STP."
-date: 'Compiled: December 17, 2019'
-output: 
-  html_document:
-    theme: simplex
-    keep_md: true
-    fig_width: 7
-    fig_height: 7
-    dev: png
----
-
-
-
 ## Testing...
 
 ```r
