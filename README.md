@@ -13,6 +13,7 @@ The Francis Crick Institute: <sup>1</sup>Neural Development Laboratory, <sup>2</
 </p>
 ---
 
+
 ## Abstract
 
 Segmentation of the vertebrate hindbrain leads to the formation of rhombomeres, each with a distinct anteroposterior identity. Specialised boundary cells form at segment borders that act as a source or regulator of neuronal differentiation. In zebrafish, there is spatial patterning of neurogenesis in which non-neurogenic zones form at bounderies and segment centres, in part mediated by Fgf20 signaling. To further understand the control of neurogenesis, we have carried out single cell RNA sequencing of the zebrafish hindbrain at three different stages of patterning. Analyses of the data reveal known and novel markers of distinct hindbrain segments, of cell types along the dorsoventral axis, and of the transition of progenitors to neuronal differentiation. We find major shifts in the transcriptome of progenitors and of differentiating cells between the different stages analysed. Supervised clustering with markers of boundary cells and segment centres, together with RNA-seq analysis of Fgf-regulated genes, has revealed new candidate regulators of cell differentiation in the hindbrain. These data provide a valuable resource for functional investigations of the patterning of neurogenesis and the transition of progenitors to neuronal differentiation.
