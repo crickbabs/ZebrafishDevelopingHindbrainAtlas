@@ -15,6 +15,6 @@ This project focuses on understanding the regulation of neurogenesis in the deve
 
 ## Data availability
 
-Raw data are available from the NCBI's GEO under accession [GSE141428].(https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE141428).
+Raw data are available from the NCBI's GEO under accession [GSE141428](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE141428).
 
 An interactive view of the data is available from the Broad's Single Cell Portal under project [SCP667](https://singlecell.broadinstitute.org/single_cell/study/SCP667/a-single-cell-transcriptome-atlas-of-the-developing-zebrafish-hindbrain).
