@@ -1,4 +1,4 @@
-### Please note that this page is currently under construction and liable to frequently change.
+### Please note that this page is currently under construction and liable to frequent change.
 ---
 
 # A single cell transcriptome atlas of the developing zebrafish hindbrain.
