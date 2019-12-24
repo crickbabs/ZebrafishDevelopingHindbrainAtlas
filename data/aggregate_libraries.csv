@@ -1,0 +1,4 @@
+library_id,molecule_h5,location
+16hpf,/camp/stp/babs/working/mitterr/projects/wilkinsond/monica.tambalo/hindbrain.10x/180511_K00102_0206_AHV5VCBBXX/count/TAM677A1/outs/molecule_info.h5,/camp/stp/babs/working/mitterr/projects/wilkinsond/monica.tambalo/hindbrain.10x/180511_K00102_0206_AHV5VCBBXX/count/TAM677A1/outs/filtered_gene_bc_matrices/GRCz10-release-89
+24hpf,/camp/stp/babs/working/mitterr/projects/wilkinsond/monica.tambalo/hindbrain.10x/180524_K00102_0213_BHVM57BBXX/count/TAM677A2/outs/molecule_info.h5,/camp/stp/babs/working/mitterr/projects/wilkinsond/monica.tambalo/hindbrain.10x/180524_K00102_0213_BHVM57BBXX/count/TAM677A2/outs/filtered_gene_bc_matrices/GRCz10-release-89
+44hpf,/camp/stp/sequencing/inputs/instruments/fastq/180221_K00102_0186_BHT2WMBBXX/count/SC18018/MT_10X240118/outs/molecule_info.h5,/camp/stp/sequencing/inputs/instruments/fastq/180221_K00102_0186_BHT2WMBBXX/count/SC18018/MT_10X240118/outs/filtered_gene_bc_matrices/GRCz10-release-89
