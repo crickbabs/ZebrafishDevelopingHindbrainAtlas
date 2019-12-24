@@ -10,3 +10,7 @@ The Francis Crick Institute: <sup>1</sup>Neural Development Laboratory, <sup>2</
 ## data
 
 Sample data, cell annotation and gene lists.
+
+
+*NOTE: The aggregated 10X expression matrix is not large to host on gitHub, but may be downloaded from the Broad's Single Cell portal using the link below:*<br>
+https://singlecell.broadinstitute.org/single_cell/data/public/SCP667/a-single-cell-transcriptome-atlas-of-the-developing-zebrafish-hindbrain?filename=gene_sorted-matrix.mtx
