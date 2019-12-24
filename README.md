@@ -1,30 +1,11 @@
----
-title: "A single cell transcriptome atlas of the developing zebrafish hindbrain."
-author:
-- name: "Monica Tambalo<sup>1</sup>, Richard Mitter<sup>2</sup>, David Wilkinson<sup>1</sup>."
-  affiliation: "The Francis Crick Institute: <sup>1</sup>Neural Development Laboratory, <sup>2</sup>Bioinformatics & Biostatistics STP."
-date: 'Compiled: December 24, 2019'
-output:
-  html_document:
-    keep_md: true
-#    theme: simplex
-#    css: css/simple.css
-#    toc: true
-#    toc_float: true
-#    toc_depth: 2
-#    number_sections: false
-    fig_width: 7
-    fig_height: 7
-    fig_caption: true
-    dev: png
-    code_folding: hide
-#    includes:
-#    before_body: html/simple_header.html
-#    after_body: html/simple_footer.html
----
+# A single cell transcriptome atlas of the developing zebrafish hindbrain.
 
+This repository contains the R code used to analyse the single-cell RNA-seq dataset shown in:<br/><br/>
 
-
+*A single cell transcriptome atlas of the developing zebrafish hindbrain.<br/>
+Development (In review)<br/>
+Monica Tambalo<sup>1</sup>, Richard Mitter<sup>2</sup>, David Wilkinson<sup>1</sup>.<br/>
+The Francis Crick Institute: <sup>1</sup>Neural Development Laboratory, <sup>2</sup>Bioinformatics & Biostatistics STP.*
 
 ***
 
