@@ -16,7 +16,7 @@ ___
 <br><br><br>
 
 # Introduction
-***
+___
 
 Segmentation of the vertebrate hindbrain leads to the formation of rhombomeres, each with a distinct anteroposterior identity. Specialised boundary cells form at segment borders that act as a source or regulator of neuronal differentiation. In zebrafish, there is spatial patterning of neurogenesis in which non-neurogenic zones form at bounderies and segment centres, in part mediated by Fgf20 signaling. To further understand the control of neurogenesis, we have carried out single cell RNA sequencing of the zebrafish hindbrain at three different stages of patterning. Analyses of the data reveal known and novel markers of distinct hindbrain segments, of cell types along the dorsoventral axis, and of the transition of progenitors to neuronal differentiation. We find major shifts in the transcriptome of progenitors and of differentiating cells between the different stages analysed. Supervised clustering with markers of boundary cells and segment centres, together with RNA-seq analysis of Fgf-regulated genes, has revealed new candidate regulators of cell differentiation in the hindbrain. These data provide a valuable resource for functional investigations of the patterning of neurogenesis and the transition of progenitors to neuronal differentiation. 
 
@@ -45,7 +45,7 @@ This project focuses on understanding the regulation of neurogenesis in the deve
 
 
 # Data availability
-***
+___
 
 Raw data are available from the NCBI's GEO under accession [GSE141428](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE141428).
 
@@ -58,7 +58,7 @@ NOTE: the 10X matrix files are too large to host on gitHub but may be downloaded
 
 
 # Setup
-***
+___
 
 * Load required R packages.
 * Load lists of transcription factors from the AnimalTFDB3.0 database.
@@ -132,7 +132,7 @@ getPalette <- colorRampPalette(brewer.pal(9, "Set1"))
 ```
 
 # QC
-***
+___
 
 Flag outlier cells +/- 3 MADs away from the median in a dataset depended manner using the scater package.
 
@@ -185,7 +185,7 @@ P0
 
 
 # Integrated dataset, all cells
-***
+___
 
 ## Process
 
@@ -324,7 +324,7 @@ P4
 
 
 # Integrated dataset, hindbrain only
-***
+___
 
 
 ## Process
@@ -429,7 +429,7 @@ P4
 
 
 # 16hpf, hindbrain only
-***
+___
 
 ## Process
 
@@ -611,7 +611,7 @@ P3
 
 
 # 24hpf, hindbrain only
-***
+___
 
 ## Process
 
@@ -822,7 +822,7 @@ P4
 
 
 # 44hpf, hindbrain only
-***
+___
 
 ## Process
 
@@ -1072,7 +1072,7 @@ P1
 
 
 # Supervised analysis
-***
+___
 
 ## Process
 
@@ -1383,7 +1383,7 @@ P3
 
 
 # Trajectory analysis
-***
+___
 
 ## Process
 
@@ -1546,7 +1546,8 @@ print(ht)
 
 
 # References
-***
+___
+
 * Cao J, Spielmann M, Qiu X, Huang X, Ibrahim DM, Hill AJ, Zhang F, Mundlos S, Christiansen L, Steemers FJ, Trapnell C, Shendure J. The single-cell transcriptional landscape of mammalian organogenesis. Nature. 2019 Feb;566(7745):496-502.
 * Howe DG, Bradford YM, Conlin T, Eagle AE, Fashena D, Frazer K, Knight J, Mani P, Martin R, Moxon SA, Paddock H, Pich C, Ramachandran S, Ruef BJ, Ruzicka L, Schaper K, Shao X, Singer A, Sprunger B, Van Slyke CE, Westerfield M.<br>ZFIN, the Zebrafish Model Organism Database: increased support for mutants and transgenics.<br>Nucleic Acids Res. 2013 Jan.
 * Hu H, Miao YR, Jia LH, Yu QY, Zhang Q, Guo AY. AnimalTFDB 3.0: a comprehensive resource for annotation and prediction of animal transcription factors. Nucleic Acids Res. 2019 Jan 8;47(D1):D33-D38.
@@ -1559,7 +1560,7 @@ print(ht)
 
 
 # Session Info
-***
+___
 
 ```r
 sessionInfo()
