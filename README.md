@@ -24,7 +24,7 @@ This project focuses on understanding the regulation of neurogenesis in the deve
 <br><br><br>
 
 # Contents
-***
+
 * [Introduction](#introduction)
 * [Data availability](#data-availability)
 * [Setup](#setup)
