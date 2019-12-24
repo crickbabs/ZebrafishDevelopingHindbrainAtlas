@@ -167,7 +167,7 @@ P0 <- P0 + theme_bw() + theme(text = element_text(size = 8)) + ylab("")
 P0
 ```
 
-![](figures/QC-1.png)<!-- -->
+![](figures/QC-2.png)<!-- -->
 
 ```r
 # sapply(split(mix$libsize.outlier,mix$stage),table)[c('FALSE','TRUE'),c('16hpf','24hpf','44hpf')]
