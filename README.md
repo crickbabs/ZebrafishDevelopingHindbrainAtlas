@@ -320,6 +320,8 @@ P4
 
 # Integrated dataset, hindbrain only
 
+<br><br>
+
 ## Process
 
 * Restrict integrated dataset to just the hindbrain cells.
