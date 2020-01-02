@@ -1077,7 +1077,6 @@ P1
 <br><br><br>
 
 ## 24hpf
-***
 
 Genes used for supervised partitioning are:
 
@@ -1229,7 +1228,6 @@ P3
 <br><br><br>
 
 ## 44hpf
-***
 
 Genes used for supervised partitioning are:
 
@@ -1409,7 +1407,7 @@ cds <- learn_graph(cds, use_partition=TRUE, verbose = FALSE)
 ```
 
 ## Graph
-Learned trajectory coloured by i) discovered cluster ii) developmental stage and iii) selected marker genes.  A neurogenic trajectory is arlready evident.
+Learned trajectory coloured by i) discovered cluster ii) developmental stage and iii) selected marker genes.  A neurogenic trajectory is already evident.
 
 ```r
 P1.1 <- plot_cells(cds, group_label_size = 5, label_cell_groups = TRUE)
@@ -1507,7 +1505,7 @@ write.table(hits,file="results/TF_changing_with_pseudotime.txt",col.names=T,row.
 <br><br>
 
 ## Pseudotime TF Heatmap
-Heatmap of selected transcriptiion factor expression across pseudotime. k-means clustered (k=6).
+Heatmap of selected transcription factor expression across pseudotime. k-means clustered (k=6).
 
 ```r
 genes     <- read.delim("data/TF_heatmap.txt",header=T,sep="\t",stringsAsFactors=F)[,2]
