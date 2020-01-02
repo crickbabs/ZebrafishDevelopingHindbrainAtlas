@@ -233,7 +233,7 @@ mix <- RunUMAP(mix, dims = which.pc, verbose = FALSE)
 <br><br>
 
 ## PCA
-PCA ElbowPlot: standard deviations of the principle components.  Select the first 30 components for further analysis.
+PCA ElbowPlot: standard deviations of the principal components.  Select the first 30 components for further analysis.
 
 ```r
 P1 <- ElbowPlot(mix, ndims = 50) + geom_vline(xintercept = max(which.pc), colour = "red", 
